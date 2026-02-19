@@ -66,6 +66,3 @@ The trained classification model is evaluated using standard classification metr
 
 ```bash
 git clone https://github.com/kotame01/Text-Classification.git
-
-
-
