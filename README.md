@@ -64,5 +64,10 @@ The trained classification model is evaluated using standard classification metr
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/kotame01/Text-Classification.git
+```bash git clone https://github.com/kotame01/Text-Classification.git ```
+
+---
+
+## 📚 Reference Website 
+
+ 1. https://www.geeksforgeeks.org/nlp/text-classification-using-scikit-learn-in-nlp/
